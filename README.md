@@ -3,7 +3,24 @@ Projekt ekstrakcji danych z programów TV i rekomendacja dla użytkownika na pos
 
 # TODO
 - [ ] Zaktualizować opis
-- [ ] Przeprojektowanie na obiektowy punkt
-- [ ] opisać projekt w wolnej chwili
-- [ ] zapis rastra jako VRT (może przyspieszyć wpasowanie)
-- [ ] Statystyka wpasowania
+- [ ] Pobieranie i parsowanie XML
+- [ ] Baza danych Postgres
+
+<!-- TABLE OF CONTENTS -->
+## Spis treści
+
+* [O projekcie](#about-the-project)
+  * [Zawarte bibliteki](#built-with)
+* [Jak zacząć](#getting-started)
+  * [Wymagania](#prerequisites)
+  * [Instalacja](#installation)
+* [Jak używać](#usage)
+* [Opis plików](#roadmap)
+* [License](#license)
+
+
+<!-- ABOUT THE PROJECT -->
+## O projekcie
+
+
+COŚ TU MOŻNA NASKROBAĆ
