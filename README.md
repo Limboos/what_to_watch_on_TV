@@ -10,7 +10,7 @@ Projekt ekstrakcji danych z programów TV i rekomendacja dla użytkownika na pos
 ## Spis treści
 
 * [O projekcie](#about-the-project)
-  * [Zawarte bibliteki](#built-with)
+  * [Użyte narzędzia](#built-with)
 * [Jak zacząć](#getting-started)
   * [Wymagania](#prerequisites)
   * [Instalacja](#installation)
